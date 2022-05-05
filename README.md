@@ -18,8 +18,6 @@
 
 ## Eduacation
 
-MAST. Mathematical Tripos Part III Applied Mathematics, University of Cambridge, UK. 2022-2023
-
 BSc Mathematics with Applied Mathematics, University of Nottingham, UK, 2018-2022
 
 ----
